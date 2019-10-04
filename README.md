@@ -1,10 +1,10 @@
 # SparkLearning
 
-You will need an Azure subscription to use Azure Databricks. If you do not already have a subscription, it is available through Avanade.
+Start on this page to find information about common Databricks use cases and training. You will need an Azure subscription to use Azure Databricks. If you do not already have a subscription, it is available through Avanade.
 
 # Why Databricks & Spark?
 
-An important section to fill!
+An important section to fill based on POV.
 
 # Basic Python, Scala, and Spark Resources
 
@@ -12,13 +12,13 @@ An important section to fill!
 
 [Functional Programming in Scala](https://www.coursera.org/learn/progfun1)
 
+[Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
+
 # Databricks Architecture & Best Practices
 
 [DS320 DataStax Enterprise Analytics with Spark](https://academy.datastax.com/resources/getting-started-apache-spark)
 
 [Introduction to Azure DataBricks](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-databricks/)
-
-[Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 
 # Azure Databricks
 
