@@ -14,6 +14,8 @@ Application developers and data scientists incorporate Spark into their applicat
 
 Before starting any studying, read through this guide to familiarize yourself with the available resources. Although the steps are listed in order, you may skip or repeat sections based on your progression or deep-dive into a specific use case you find interesting.
 
+![PathImage](https://user-images.githubusercontent.com/56167793/68046082-3ff8a880-fc98-11e9-857f-f2c0d255bf5e.png)
+
 1.	Complete the Set Up section below.
 2.	If you are new to python, scala, or big data you may find it helpful to begin by using one of the Understanding Spark, Python, & Scala resources below. We recommend Python unless you have previous Scala knowledge.
 3.	Complete the Avanade University regimen. 
