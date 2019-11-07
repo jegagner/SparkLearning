@@ -1,6 +1,6 @@
 # Additional Resources
 
-If you find yourself ewanting more resources, try these documents and trainings.
+If you find yourself wanting more, try these documents and trainings.
 
 # Spark, Python, and Scala
 
