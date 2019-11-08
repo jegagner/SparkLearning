@@ -72,11 +72,11 @@ Databricks provided us with these best practices as part of our partnership. Thi
 
 Official documentation can be dry but also helpful! Read this overview and then peruse the documentation links at the bottom of the page. There is a plethora of information.
 
+# Azure Databricks
+
 An example Data Flow:
 
 ![image](https://user-images.githubusercontent.com/56167793/68433889-83f21e80-016c-11ea-975b-adc0b09cfbf2.png)
-
-# Azure Databricks
 
 [Perform Basic Data Transformations in Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-basic-data-transformation-in-azure-databricks/)
 
