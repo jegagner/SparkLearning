@@ -32,7 +32,7 @@ Before starting any studying, read through this guide to familiarize yourself wi
 4.	If at any point you feel like you need more information, try one of the Databricks Architecture & Best Practices resources below to hone the concepts. 
  Some resources here may be more specifically tailored to your daily work. For example, a data engineer may want to focus on Data ingestion with Azure Data Factory.
 5.	Explore the Azure connections most relevant to your work using the Azure Databricks resources below.
-6.	Practice.
+6.	Practice by working with the notebooks on this page.
 7.	Create a pull request and suggest changes or additions to this pathway. If you roll-off a Databricks project, feel free to write a brief client story on this repository.
  
  
