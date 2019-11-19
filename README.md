@@ -17,7 +17,7 @@ Spark is a programming framework built for high-performance distributed computin
 
 Databricks is a platform built on top of Spark. It makes using Spark easy. It provides its users an interactive, notebook-based development environment to quickly build Spark code and helps them create and manage clusters to run Spark code. It also provides many more bells and whistles to make using Spark as easy as possible.
 
-*An example Azure Spark Streaming Achitecture*
+*Example Azure Spark Streaming Achitecture*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433938-9c623900-016c-11ea-93c4-d7875570bd95.png)
 
@@ -77,7 +77,7 @@ Official documentation can be dry but also helpful! Read this overview and then 
 
 # Azure Databricks
 
-*An example Data Flow*
+*Example Data Flow*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433889-83f21e80-016c-11ea-975b-adc0b09cfbf2.png)
 
