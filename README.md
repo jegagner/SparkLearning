@@ -1,18 +1,23 @@
-# SparkLearning
-Table of Contents
-
 # Databricks & Spark
-Working with big data—that is, large quantities of data—requires more computing power than working with a smaller dataset. Splitting the data and tasks into chunks and working on them at the same time is known as distributed computing or parallel processing. This is where Spark and Databricks come in.
+Before diving into Databricks and Spark, it is important to understand the term *big data*. Big data refers to working with and analyzing data sets that are too large or complex to be dealt with by traditional data-processing software. Common characteristics of big data are volume, velocity, and variety. 
+
+**Volume** Data comes in from IoT devices, industrial equipment, points of sale, and social media.
+
+**Velocity** Data comes in constantly, in real time, and sometimes late.
+
+**Variety** Data comes in all forms - structured, unstructured, numeric, text, times, and anything else you can imagine.
+
+How do we deal with the volume, velocity, and variety? Splitting the data and tasks into chunks and working on them at the same time. This known as distributed computing and parallel processing. This is where Spark and Databricks come in.
 
 Spark is a programming framework built for high-performance distributed computing. It is a tool to organize data engineering and data science tasks to perform well over a large dataset on a specialized (Spark) cluster configuration.
 
-Spark Capabilities and Connections:
+*Spark Capabilities and Connections*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433702-0c23f400-016c-11ea-9faa-2d071f870c84.png)/
 
 Databricks is a platform built on top of Spark. It makes using Spark easy. It provides its users an interactive, notebook-based development environment to quickly build Spark code and helps them create and manage clusters to run Spark code. It also provides many more bells and whistles to make using Spark as easy as possible.
 
-An example Azure Spark Streaming Achitecture:
+*An example Azure Spark Streaming Achitecture*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433938-9c623900-016c-11ea-93c4-d7875570bd95.png)
 
@@ -34,8 +39,6 @@ Before starting any studying, read through this guide to familiarize yourself wi
 5.	Explore the Azure connections most relevant to your work using the Azure Databricks resources below.
 6.	Practice by working with the notebooks on this page.
 7.	Create a pull request and suggest changes or additions to this pathway. If you roll-off a Databricks project, feel free to write a brief client story on this repository.
- 
- 
 
 # Set Up
 
@@ -74,7 +77,7 @@ Official documentation can be dry but also helpful! Read this overview and then 
 
 # Azure Databricks
 
-An example Data Flow:
+*An example Data Flow*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433889-83f21e80-016c-11ea-975b-adc0b09cfbf2.png)
 
