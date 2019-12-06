@@ -37,17 +37,15 @@ Application developers and data scientists incorporate Spark into their applicat
 
 # Avanade and Databricks
 
-Avanade has been a Databricks partner since 2018. Here are examples of projects that used Databricks for a successful delivery.
+Avanade utilizes Databricks for different purposes depending on our client's needs. Here are a few examples:
 
-Move prestored big data calculations into real time calculations for a commmunications company.
+One communications client had trouble performing big data calculations. They took too long and could not be performed in real-time. This diminished the precision of the results because by the time the calculations were completed, new information was available and needed to be accounted for. Avanade created an Azure Databricks solution in a PoC, proving real time calculations were possible.
 
-Industrial equipment data platform modernization.
+Databricks was leveraged to create a predictive maintenance program for an automotive client. The program recommends maintenance actions to replace or adjust driving chains during routine workshop visits. The project increased customer satisfaction and resulted in cost savings through reduced shop visits and warranty cases.
 
-Epidermology pilot in Azure for a healthcare company.
+A banking client had a problem with customers abandoning the credit card application process before completion. After starting a project to remedy the abandonment issue, the client realized there were many improvements to data, process, and systems that needed to happen in parallel to scale the solution they created. Avanade created a data platform based in Azure PaaS to improve insight into the customer throughout the credit card application process. To enable this vision, Avanade built a unified view into every metric for each of the client's customers across multiple time intervals, which became the data model upon which the churn models were built for the abandonment use case.
 
-A credit card abandonment project featuring Azure Databricks for a bank.
-
-In the insurance industry, Avanade is using Azure Databricks for price optimization.
+In the insurance industry, Avanade and Accenture worked to bring together multiple insurance quote data sources, as well as data from the client's websites into a curated data lake. The team also provided data transformations before making the data available to the client's data science team and creating a data warehouse to support the client's reporting needs.
 
 # How to use this Pathway 
 
