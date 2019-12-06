@@ -1,4 +1,4 @@
-# Databricks & Spark
+# Knowledge Check
 Before diving into Databricks and Spark, it will help to have a baseline understanding of a few keys topics. Quiz yourself with the five questions below:
 
 1. What are APIs, libraries, and packages?
@@ -9,6 +9,7 @@ Before diving into Databricks and Spark, it will help to have a baseline underst
 
 Were any of these topics brand new? Did you need to look them up before answering? If you are not comfortable with notebooks, distributing computing, clusters, and modular programming, try to do some research on your own and come back to this page.
 
+# Databricks & Spark
 Now, it is important to understand the term *big data*. Big data refers to working with and analyzing data sets that are too large or complex to be dealt with by traditional data-processing software. Common characteristics of big data are volume, velocity, and variety. 
 
 **Volume** Data comes in from IoT devices, industrial equipment, points of sale, and social media.
@@ -116,11 +117,9 @@ Photo: azure.microsoft.com
 [Access SQL Data Warehouse Instances with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/understand-the-sql-dw-connector-with-azure-databricks/)
 
 # Summary
-This pathway gave guidance on learning about Spark and Databricks. You should now be able to apply these skills to data engineering, data science, azure architectures, and any unique work you are faced with. You may also be interested in taking the [Databricks Certified Developer]() exam. We recommend the Python version unless you have previous Scala knowledge.
+This pathway gave guidance on learning about Spark and Databricks. You should now be able to apply these skills to data engineering, data science, azure architectures, and any unique work you are faced with. You may also be interested in taking the [Databricks Certified Developer](https://academy.databricks.com/category/certifications) exam. We recommend the Python version unless you have previous Scala knowledge.
 
-Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC.
-
-[Pull request instructions]()
+Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC. Pull request instructions can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 Requests will be reviewed monthly. If you would like your request reviewed sooner, please contact Jennifer Gagner, Matt Russell, or Grant Stevens.
 
