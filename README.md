@@ -1,5 +1,15 @@
 # Databricks & Spark
-Before diving into Databricks and Spark, it is important to understand the term *big data*. Big data refers to working with and analyzing data sets that are too large or complex to be dealt with by traditional data-processing software. Common characteristics of big data are volume, velocity, and variety. 
+Before diving into Databricks and Spark, it will help to have a baseline understanding of a few keys topics. Quiz yourself with the five questions below:
+
+1. What are APIs, libraries, and packages?
+2. Why code in a web-based notebook?
+3. What are map and reduce functions? What does this have to do with distributed computing?
+4. Why would you want to switch between programming languages in a notebook or pipeline? (Spark calls this magic commands)
+5. Are you familiar with mutability and data structures such as graphs, lists, and datasets?
+
+Were any of these topics brand new? Did you need to look them up before answering? If you are not comfortable with notebooks, distributing computing, clusters, and modular programming, try to do some research on your own and come back to this page.
+
+Now, it is important to understand the term *big data*. Big data refers to working with and analyzing data sets that are too large or complex to be dealt with by traditional data-processing software. Common characteristics of big data are volume, velocity, and variety. 
 
 **Volume** Data comes in from IoT devices, industrial equipment, points of sale, and social media.
 
@@ -20,8 +30,23 @@ Databricks is a platform built on top of Spark. It makes using Spark easy. It pr
 *Example Azure Spark Streaming Achitecture*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433938-9c623900-016c-11ea-93c4-d7875570bd95.png)
+Photo: databricks.com
 
 Application developers and data scientists incorporate Spark into their applications to rapidly query, analyze, and transform data at scale. Tasks most frequently associated with Spark include ETL and SQL batch jobs across large data sets, processing of streaming data from sensors, IoT, or financial systems, and machine learning tasks.
+
+# Avanade and Databricks
+
+Avanade has been a Databricks partner since 2018. Here are examples of projects that used Databricks for a successful delivery.
+
+Move prestored big data calculations into real time calculations for a commmunications company.
+
+Industrial equipment data platform modernization.
+
+Epidermology pilot in Azure for a healthcare company.
+
+A credit card abandonment project featuring Azure Databricks for a bank.
+
+In the insurance industry, Avanade is using Azure Databricks for price optimization.
 
 # How to use this Pathway 
 
@@ -80,8 +105,9 @@ Official documentation can be dry but also helpful! Read this overview and then 
 *Example Data Flow*
 
 ![image](https://user-images.githubusercontent.com/56167793/68433889-83f21e80-016c-11ea-975b-adc0b09cfbf2.png)
+Photo: azure.microsoft.com
 
-[Perform Basic Data Transformations in Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-basic-data-transformation-in-azure-databricks/)
+[Perform Basic Data Transformations in Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/perform-basic-data-transformation-in-azure-databricks/) 
 
 [Create Data Visualizations using Azure Databricks and Power BI](https://docs.microsoft.com/en-us/learn/modules/create-data-visualizations-using-azure-databricks-and-power-bi/)
 
@@ -89,6 +115,14 @@ Official documentation can be dry but also helpful! Read this overview and then 
 
 [Access SQL Data Warehouse Instances with Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/understand-the-sql-dw-connector-with-azure-databricks/)
 
+# Summary
+This pathway gave guidance on learning about Spark and Databricks. You should now be able to apply these skills to data engineering, data science, azure architectures, and any unique work you are faced with. You may also be interested in taking the [Databricks Certified Developer]() exam. We recommend the Python version unless you have previous Scala knowledge.
+
+Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC.
+
+[Pull request instructions]()
+
+Requests will be reviewed monthly. If you would like your request reviewed sooner, please contact Jennifer Gagner, Matt Russell, or Grant Stevens.
 
 
 
