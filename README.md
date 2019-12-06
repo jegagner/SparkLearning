@@ -1,9 +1,9 @@
-# Knowledge Check
+# Initial Knowledge Check
 Before diving into Databricks and Spark, it will help to have a baseline understanding of a few keys topics. Quiz yourself with the five questions below:
 
 1. What are APIs, libraries, and packages?
-2. Why code in a web-based notebook?
-3. What are map and reduce functions? What does this have to do with distributed computing?
+2. Have you used a web-based notebook?
+3. What are map and reduce functions?
 4. Why would you want to switch between programming languages in a notebook or pipeline? (Spark calls this magic commands)
 5. Are you familiar with mutability and data structures such as graphs, lists, and datasets?
 
