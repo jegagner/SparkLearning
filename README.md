@@ -1,11 +1,11 @@
 # Initial Knowledge Check
-Before diving into Databricks and Spark, it will help to have a baseline understanding of a few keys topics. Quiz yourself with the five questions below:
+Before diving into Databricks and Spark, it will help to have a baseline understanding of a few key concepts. Self-judge your understanding of these five key concepts:
 
-1. What are APIs, libraries, and packages?
-2. Have you used a web-based notebook?
-3. What are map and reduce functions?
-4. Why would you want to switch between programming languages in a notebook or pipeline? (Spark calls this magic commands)
-5. Are you familiar with mutability and data structures such as graphs, lists, and datasets?
+1. APIs, libraries, and packages
+2. Notebook architecture
+3. Map and reduce functions
+4. Switching between programming languages in a notebook (Spark calls this magic commands)
+5. Mutability and data structures such as graphs, lists, and datasets?
 
 Were any of these topics brand new? Did you need to look them up before answering? If you are not comfortable with notebooks, distributing computing, clusters, and modular programming, try to do some research on your own and come back to this page.
 
