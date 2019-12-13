@@ -56,7 +56,7 @@ Before starting any studying, read through this guide to familiarize yourself wi
 1.	Complete the Set Up section below.
 2.	If you are new to python, scala, or big data you may find it helpful to begin by using one of the Understanding Spark, Python, & Scala resources below. We recommend Python unless you have previous Scala knowledge. 
  If you understand the purpose of clusters and distributed computing (such as MapReduce), datastructures such as lists and arrays, and syntax, you can probably skip this step. 
-3.	Complete the Avanade University regimen [_here_](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). These are fantastic courses that come straight from the horse's mouth.
+3.	Complete the Avanade University regimen [HERE](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). These are fantastic courses that come straight from the horse's mouth.
 You will need to request a voucher for the courses, which may take time due to limited availability of vouchers. In the meantime, you can study the resources on this page.
 4.	If at any point you feel like you need more information, try one of the Databricks Architecture & Best Practices resources below to hone the concepts. 
  Some resources here may be more specifically tailored to your daily work. For example, a data engineer may want to focus on Data ingestion with Azure Data Factory.
@@ -117,7 +117,7 @@ Photo: azure.microsoft.com
 # Summary
 This pathway gave guidance on learning about Spark and Databricks. You should now be able to apply these skills to data engineering, data science, azure architectures, and any unique work you are faced with. You may also be interested in taking the [Databricks Certified Developer](https://academy.databricks.com/category/certifications) exam. We recommend the Python version unless you have previous Scala knowledge.
 
-Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC. We will be rewarding excellent contributors with Go Team! awards. Pull request instructions can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC. We will be rewarding excellent contributors with Go Team! awards. Pull request instructions can be found [HERE](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 Requests will be reviewed monthly. If you would like your request reviewed sooner, please contact Jennifer Gagner, Matt Russell, or Grant Stephens.
 
