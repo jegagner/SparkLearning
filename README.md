@@ -56,7 +56,7 @@ Before starting any studying, read through this guide to familiarize yourself wi
 1.	Complete the Set Up section below.
 2.	If you are new to python, scala, or big data you may find it helpful to begin by using one of the Understanding Spark, Python, & Scala resources below. We recommend Python unless you have previous Scala knowledge. 
  If you understand the purpose of clusters and distributed computing (such as MapReduce), datastructures such as lists and arrays, and syntax, you can probably skip this step. 
-3.	Complete the Avanade University regimen [here](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). These are fantastic courses that come straight from the horse's mouth (Databricks themself).
+3.	Complete the Avanade University regimen [_here_](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). These are fantastic courses that come straight from the horse's mouth.
 You will need to request a voucher for the courses, which may take time due to limited availability of vouchers. In the meantime, you can study the resources on this page.
 4.	If at any point you feel like you need more information, try one of the Databricks Architecture & Best Practices resources below to hone the concepts. 
  Some resources here may be more specifically tailored to your daily work. For example, a data engineer may want to focus on Data ingestion with Azure Data Factory.
