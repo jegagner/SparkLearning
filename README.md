@@ -1,11 +1,11 @@
 # Initial Knowledge Check
-Before diving into Databricks and Spark, it will help to have a baseline understanding of a few key concepts. Self-judge your understanding of these five key concepts:
+Before diving into Databricks and Spark, it will help to have a baseline understanding of a few key concepts. Judge your understanding of these five key concepts:
 
 1. APIs, libraries, and packages
 2. Notebook architecture
 3. Map and reduce functions
 4. Switching between programming languages in a notebook (Spark calls this magic commands)
-5. Mutability and data structures such as graphs, lists, and datasets?
+5. Mutability and data structures such as graphs, lists, and datasets
 
 Were any of these topics brand new? Did you need to look them up before answering? If you are not comfortable with notebooks, distributing computing, clusters, and modular programming, try to do some research on your own and come back to this page.
 
@@ -56,8 +56,8 @@ Before starting any studying, read through this guide to familiarize yourself wi
 1.	Complete the Set Up section below.
 2.	If you are new to python, scala, or big data you may find it helpful to begin by using one of the Understanding Spark, Python, & Scala resources below. We recommend Python unless you have previous Scala knowledge. 
  If you understand the purpose of clusters and distributed computing (such as MapReduce), datastructures such as lists and arrays, and syntax, you can probably skip this step. 
-3.	Complete the Avanade University regimen [here](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). 
- You will need to request a voucher for the courses, which may take time due to limited availability of vouchers. In the meantime, you can study the resources on this page.
+3.	Complete the Avanade University regimen [here](https://avanade.sharepoint.com/sites/HR/learn/tech/an/Pages/Databricks.aspx). These are fantastic courses that come straight from the horse's mouth (Databricks themself).
+You will need to request a voucher for the courses, which may take time due to limited availability of vouchers. In the meantime, you can study the resources on this page.
 4.	If at any point you feel like you need more information, try one of the Databricks Architecture & Best Practices resources below to hone the concepts. 
  Some resources here may be more specifically tailored to your daily work. For example, a data engineer may want to focus on Data ingestion with Azure Data Factory.
 5.	Explore the Azure connections most relevant to your work using the Azure Databricks resources below.
@@ -117,7 +117,7 @@ Photo: azure.microsoft.com
 # Summary
 This pathway gave guidance on learning about Spark and Databricks. You should now be able to apply these skills to data engineering, data science, azure architectures, and any unique work you are faced with. You may also be interested in taking the [Databricks Certified Developer](https://academy.databricks.com/category/certifications) exam. We recommend the Python version unless you have previous Scala knowledge.
 
-Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC. Pull request instructions can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Next, it is important to share the Databricks work you complete with the TC. Please make suggestions on this page by creating a pull request with changes. If you roll off a Databricks project, share your client stories and challenges with a pull request or work with Grant Stephens to schedule a time to present to the TC. We will be rewarding excellent contributors with Go Team! awards. Pull request instructions can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 Requests will be reviewed monthly. If you would like your request reviewed sooner, please contact Jennifer Gagner, Matt Russell, or Grant Stephens.
 
